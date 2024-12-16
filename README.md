@@ -2,7 +2,7 @@
 
 Este repositório contém um **Dashboard interativo criado no Power BI** para análise detalhada de dados de vendas e lucros, com base nas informações fornecidas. O objetivo é fornecer uma visualização clara e interativa, permitindo a análise de métricas de vendas, lucros e unidades vendidas em diferentes dimensões, como país, segmento e período de tempo.
 
-![Dashboard Power BI](https://postimg.cc/2VyfQXsg)
+![Dashboard Power BI]([url=https://postimg.cc/2VyfQXsg][img]https://i.postimg.cc/2VyfQXsg/Distribui-o-de-Lucro-Vendas-e-Unidades-por-pa-s-e-segmento-Desafio-page-0001-1.jpg[/img][/url])
 
 ## Funcionalidades do Dashboard 🛠️
 
